@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ammichael/ammichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="mikeam.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Michael Amaral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+<img align="left" alt="ammichael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ammichael&show_icons=true&hide_border=true" />
+
+[website]: https://mikeam.dev
+[linkedin]: https://www.linkedin.com/in/michael-amaral-00a43877/
